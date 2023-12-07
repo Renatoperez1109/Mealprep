@@ -80,7 +80,7 @@ p {
 }
 
 footer {
-  background-color: #333;
+  background-color: #555; /* Cambia el color del footer */
   color: #fff;
   text-align: center;
   padding: 10px 0;
@@ -88,3 +88,4 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
